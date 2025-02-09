@@ -7,7 +7,7 @@
 - [Project Structure](#project-structure)
 - [User Guide](#user-guide)
 - [Error Handling](#error-handling)
-- [Support](#-support)  
+- [Support](#support)  
 
 
 ## Description
